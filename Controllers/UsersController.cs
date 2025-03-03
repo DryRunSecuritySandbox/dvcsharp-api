@@ -68,7 +68,7 @@ namespace dvcsharp_core_api
          return Ok(user);
       }
 
-      [Authorize]
+      //[Authorize]
       [HttpGet("import")]
       public async Task<IActionResult> Import()
       {
