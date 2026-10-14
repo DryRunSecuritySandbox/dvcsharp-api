@@ -80,7 +80,7 @@
   "drifts": [
     {
       "title": "Replay execution identity",
-      "content": "[crossrepo-validation-cache-identity]\n20261014-xrepo-history-v2. Source repository: DryRunSecuritySandbox/dvcsharp-api.\n[/crossrepo-validation-cache-identity]"
+      "content": "[crossrepo-validation-cache-identity]\n20261014-xrepo-history-v3-pr-3. Source repository: DryRunSecuritySandbox/dvcsharp-api.\n[/crossrepo-validation-cache-identity]"
     }
   ],
   "sensitiveCodepaths": [],
